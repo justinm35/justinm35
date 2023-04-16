@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [World Wander](https://worldwander.justinm.dev)
 
-- 🌱 I’m currently learning **Next.JS and improving my React / TypeScript skills.**
+- 🌱 I’m spending most of my time learning **Next.JS and improving my React / TypeScript skills.**
 
 - 👨‍💻 All of my projects are available at [justinm.dev](https://justinm.dev)
 
